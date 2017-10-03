@@ -1,4 +1,4 @@
 qshi
 Born in Maanshan
 Salesforce
-Fav color : red
+Fav color : RED
